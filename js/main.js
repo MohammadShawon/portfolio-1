@@ -11,7 +11,7 @@
 
 
 
-        
+         $(".header-area").sticky({topSpacing:0});
 
 
     });
@@ -23,4 +23,4 @@
     });
 
 
-}(jQuery));	
+}(jQuery));
